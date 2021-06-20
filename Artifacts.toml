@@ -1,0 +1,111 @@
+[[seatd]]
+arch = "aarch64"
+git-tree-sha1 = "67a700c402046fde32c826ca29c21fe0c3049396"
+libc = "glibc"
+os = "linux"
+
+    [[seatd.download]]
+    sha256 = "8842b32c7a2548e1696f7c48d6f5a9dd1c4893073bfada007cbe47dc951a995e"
+    url = "https://github.com/JuliaBinaryWrappers/seatd_jll.jl/releases/download/seatd-v0.5.0+0/seatd.v0.5.0.aarch64-linux-gnu.tar.gz"
+[[seatd]]
+arch = "aarch64"
+git-tree-sha1 = "767dcd0fffde4dab4157a2f914b21cf6b3f746fe"
+libc = "musl"
+os = "linux"
+
+    [[seatd.download]]
+    sha256 = "3c570a47ebce12b7a1fb96c86ce2e191744f040155fd7115a88b9382369d9742"
+    url = "https://github.com/JuliaBinaryWrappers/seatd_jll.jl/releases/download/seatd-v0.5.0+0/seatd.v0.5.0.aarch64-linux-musl.tar.gz"
+[[seatd]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "2b7965b40f7c51693ab38984d5c93ae34601a4b9"
+libc = "glibc"
+os = "linux"
+
+    [[seatd.download]]
+    sha256 = "e8ace54d438f8b9b1fc9aa0380c28e2e828f7959461a6866166bbea73a02a40e"
+    url = "https://github.com/JuliaBinaryWrappers/seatd_jll.jl/releases/download/seatd-v0.5.0+0/seatd.v0.5.0.armv6l-linux-gnueabihf.tar.gz"
+[[seatd]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "a475932e2cc9e4fbb15798f020cf4bd458e0304e"
+libc = "musl"
+os = "linux"
+
+    [[seatd.download]]
+    sha256 = "6a0682207ce7beb83789b76ad325d5714a4ff25152aa120f1fce30b76841a5c5"
+    url = "https://github.com/JuliaBinaryWrappers/seatd_jll.jl/releases/download/seatd-v0.5.0+0/seatd.v0.5.0.armv6l-linux-musleabihf.tar.gz"
+[[seatd]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "06968a6c1b999fcd8f89567d0891caf4569baf14"
+libc = "glibc"
+os = "linux"
+
+    [[seatd.download]]
+    sha256 = "0221c45405fae543ede84d4c5d90d1ffe95c85fa81f30bdcc6eba0478805bbf4"
+    url = "https://github.com/JuliaBinaryWrappers/seatd_jll.jl/releases/download/seatd-v0.5.0+0/seatd.v0.5.0.armv7l-linux-gnueabihf.tar.gz"
+[[seatd]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "1fad6c1288a9d1afc66adf9e4d16095bfe843c13"
+libc = "musl"
+os = "linux"
+
+    [[seatd.download]]
+    sha256 = "28544b0773fb0ffb02cee2f5838174ba8b0e7fd83695cba557c219b8892b7a35"
+    url = "https://github.com/JuliaBinaryWrappers/seatd_jll.jl/releases/download/seatd-v0.5.0+0/seatd.v0.5.0.armv7l-linux-musleabihf.tar.gz"
+[[seatd]]
+arch = "i686"
+git-tree-sha1 = "735ea57664b61cb729252410067bc590dfc1b5a3"
+libc = "glibc"
+os = "linux"
+
+    [[seatd.download]]
+    sha256 = "9b062d55c41d92807a75fac831a7be4cf503dcba47641343df9493b00f04cbb4"
+    url = "https://github.com/JuliaBinaryWrappers/seatd_jll.jl/releases/download/seatd-v0.5.0+0/seatd.v0.5.0.i686-linux-gnu.tar.gz"
+[[seatd]]
+arch = "i686"
+git-tree-sha1 = "5429a206e9d29abe82a57be5ddcc0a232aae7e5d"
+libc = "musl"
+os = "linux"
+
+    [[seatd.download]]
+    sha256 = "ea4afa79b7afc7336e58bcba98101b188743b4705e326feaec6dc3d2b9aada2f"
+    url = "https://github.com/JuliaBinaryWrappers/seatd_jll.jl/releases/download/seatd-v0.5.0+0/seatd.v0.5.0.i686-linux-musl.tar.gz"
+[[seatd]]
+arch = "powerpc64le"
+git-tree-sha1 = "89f56f742b6a157e41e1dd6483cd93f967e632eb"
+libc = "glibc"
+os = "linux"
+
+    [[seatd.download]]
+    sha256 = "26039f2f865ac87c3f4d76e3cbb7bf8d64a888903a1c8f5ecbcbca213a47a28f"
+    url = "https://github.com/JuliaBinaryWrappers/seatd_jll.jl/releases/download/seatd-v0.5.0+0/seatd.v0.5.0.powerpc64le-linux-gnu.tar.gz"
+[[seatd]]
+arch = "x86_64"
+git-tree-sha1 = "1fc01f1b36cc2c7c652274943d33914e29957909"
+libc = "glibc"
+os = "linux"
+
+    [[seatd.download]]
+    sha256 = "65262042daf6c12ef398894f9a13fdae858939a8fd6a7d88996c619cc05cd42e"
+    url = "https://github.com/JuliaBinaryWrappers/seatd_jll.jl/releases/download/seatd-v0.5.0+0/seatd.v0.5.0.x86_64-linux-gnu.tar.gz"
+[[seatd]]
+arch = "x86_64"
+git-tree-sha1 = "1b043f495e135b0aeda807ce9dc84fced9c81d8b"
+libc = "musl"
+os = "linux"
+
+    [[seatd.download]]
+    sha256 = "338459fdbebb0bb7835e533cf2afc39f7367d1c7b2965d9ac4bed51e780719aa"
+    url = "https://github.com/JuliaBinaryWrappers/seatd_jll.jl/releases/download/seatd-v0.5.0+0/seatd.v0.5.0.x86_64-linux-musl.tar.gz"
+[[seatd]]
+arch = "x86_64"
+git-tree-sha1 = "8d50369c2114f090fda1c09a3af21bc5f3e94c1f"
+os = "freebsd"
+
+    [[seatd.download]]
+    sha256 = "8129e83875d4c1c5f9eaa8a596aa5dce7e2bbd98983fdb1e1fb5668599b3ae84"
+    url = "https://github.com/JuliaBinaryWrappers/seatd_jll.jl/releases/download/seatd-v0.5.0+0/seatd.v0.5.0.x86_64-unknown-freebsd.tar.gz"
